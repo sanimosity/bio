@@ -1,10 +1,10 @@
 <!-- Header with gradient and styling -->
 <div align="center">
   
-  # 🏀 Howdy everyone! I'm Sani
+  # Howdy everyone! I'm Sani
   
   <p>
-    <strong>A first-gen Marylander</strong> 📍 and <strong>undergrad</strong> at a nationally ranked community college
+    <strong>A first-gen Marylander</strong> and <strong>undergrad</strong> at a nationally ranked community college.
   </p>
   
   <!-- Animated Bobblehead Shooting Hoops -->
@@ -36,20 +36,49 @@
         </style>
       </defs>
       
-      <!-- Body -->
-      <ellipse cx="75" cy="120" rx="20" ry="30" fill="#FF6B6B" stroke="#333" stroke-width="2"/>
+      <!-- Body (professional look) -->
+      <ellipse cx="75" cy="120" rx="20" ry="30" fill="#2c3e50" stroke="#333" stroke-width="2"/>
+      <!-- Shirt collar accent -->
+      <polygon points="65,75 85,75 83,85 67,85" fill="#5dade2" opacity="0.8"/>
       
       <!-- Bobblehead (neck and head) -->
       <g class="head">
         <!-- Neck -->
-        <rect x="70" y="55" width="10" height="15" fill="#D4A574" stroke="#333" stroke-width="1.5"/>
+        <rect x="70" y="60" width="10" height="12" fill="#C9A876" stroke="#333" stroke-width="1.5"/>
+        
         <!-- Head -->
-        <circle cx="75" cy="45" r="20" fill="#D4A574" stroke="#333" stroke-width="2"/>
-        <!-- Eyes -->
-        <circle cx="68" cy="42" r="2.5" fill="#333"/>
-        <circle cx="82" cy="42" r="2.5" fill="#333"/>
-        <!-- Smile -->
-        <path d="M 68 48 Q 75 52 82 48" stroke="#333" stroke-width="2" fill="none" stroke-linecap="round"/>
+        <circle cx="75" cy="42" r="22" fill="#C9A876" stroke="#333" stroke-width="2"/>
+        
+        <!-- Hair (wavy/curly dark hair) -->
+        <path d="M 55 38 Q 50 25 60 15 Q 70 8 75 8 Q 80 8 90 15 Q 100 25 95 38" fill="#1a1a1a" stroke="#333" stroke-width="1.5"/>
+        <!-- Hair texture/volume on top -->
+        <ellipse cx="65" cy="18" rx="6" ry="8" fill="#1a1a1a" opacity="0.9"/>
+        <ellipse cx="85" cy="18" rx="6" ry="8" fill="#1a1a1a" opacity="0.9"/>
+        <ellipse cx="75" cy="12" rx="8" ry="10" fill="#1a1a1a" opacity="0.9"/>
+        
+        <!-- Glasses -->
+        <!-- Left lens -->
+        <rect x="58" y="36" width="12" height="10" rx="2" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+        <!-- Right lens -->
+        <rect x="80" y="36" width="12" height="10" rx="2" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+        <!-- Bridge -->
+        <line x1="70" y1="41" x2="80" y2="41" stroke="#1a1a1a" stroke-width="2.5"/>
+        <!-- Lens shine -->
+        <circle cx="62" cy="38" r="2" fill="#fff" opacity="0.6"/>
+        <circle cx="84" cy="38" r="2" fill="#fff" opacity="0.6"/>
+        
+        <!-- Eyes behind glasses -->
+        <circle cx="64" cy="41" r="2" fill="#2c3e50"/>
+        <circle cx="86" cy="41" r="2" fill="#2c3e50"/>
+        <!-- Eye shine -->
+        <circle cx="65" cy="40" r="0.8" fill="#fff"/>
+        <circle cx="87" cy="40" r="0.8" fill="#fff"/>
+        
+        <!-- Nose -->
+        <line x1="75" y1="42" x2="75" y2="50" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+        
+        <!-- Mouth (playful expression) -->
+        <path d="M 68 54 Q 75 58 82 54" stroke="#333" stroke-width="2" fill="none" stroke-linecap="round"/>
       </g>
       
       <!-- Left Arm (holding) -->
@@ -75,10 +104,10 @@
   ---
 
   <div align="center">
-    <h3>🎯 About Me</h3>
+    <h3>About Me</h3>
     <p>
       Passionate about <strong>growth</strong>, <strong>learning</strong>, and <strong>making an impact</strong>.<br/>
-      When I'm not shooting hoops, you'll find me coding, exploring new ideas, or connecting with amazing people.
+      When I'm not shooting hoops, you'll find me working, exploring new ideas, or connecting with amazing people.
     </p>
   </div>
 
@@ -86,18 +115,18 @@
 
 ---
 
-## 🌐 Where can you reach me?
+## Where can you reach me?
 
-You may reach me by visiting **[www.ihsantjahyono.com/about](https://www.ihsantjahyono.com/about)**. There, you'll also find my points of contact:
-- 📧 Email
-- 🔗 Social handles
-- 💼 Professional links
+You may reach me by visiting **[ihsantjahyono.com/about](https://www.ihsantjahyono.com/about)**. There, you'll also find my points of contact:
+- Email
+- Social handles
+- Professional links
 
 ---
 
 <div align="center">
   
-  ### ☮️ Peace and blessings, and seek eudaimonia ◡̈
+  ### Peace and blessings, and seek eudaimonia ◡̈
   
   — **Ihsan Tjahyono**
   
