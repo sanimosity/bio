@@ -6,7 +6,7 @@
   <strong>A first-gen Marylander</strong> and <strong>undergrad</strong> at a nationally ranked community college.
 </p>
 
-<img src="./assets/bobblehead.svg" width="150" height="200" alt="Animated bobblehead of Sani shooting hoops" />
+<img src="./bobblehead.svg" width="150" height="200" alt="Animated bobblehead of Sani shooting hoops" />
 
 </div>
 
