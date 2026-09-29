@@ -24,7 +24,7 @@
 
 ## Where can you reach me?
 
-You may reach me by visiting **[ihsantjahyono.com/about](https://www.ihsantjahyono.com/about)**. There, you'll also find my points of contact:
+You may reach me by visiting **[ihsantjahyono.com/about](https://www.ihsantjahyono.com)**. There, you'll also find my points of contact:
 
 - Email
 - Social handles
