@@ -6,7 +6,7 @@
   <strong>A first-gen Marylander</strong> and <strong>undergrad</strong> at a nationally ranked community college.
 </p>
 
-<img src="./bobblehead.svg" width="300" height="280" alt="Animated chibi Sani shooting hoops on a basketball court" />
+<img src="./bobblehead.svg" width="320" height="280" alt="Animated Sani shooting hoops on a basketball court" />
 
 </div>
 
