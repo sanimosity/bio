@@ -1,6 +1,6 @@
 <div align="center">
 
-# Howdy everyone! I'm Sani
+# Howdy everyone! I'm Sani ◡̈
 
 <p>
   <strong>A first-gen Marylander</strong> and <strong>undergrad</strong> at a nationally ranked community college.
